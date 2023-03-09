@@ -26,4 +26,4 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 ### Aufgaben
 **HINWEIS: Abgabe per Moodle bis 24 Uhr, Mittwoch in der Woche nach dem Labor**
 
-* [Aufgabe: Python Modul](https://colab.research.google.com/github/keuperj/DataScience23/blob/main/week_1/Aufgabe_Python.ipynb) -> [Abgabe](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5869#section-1)
+* [Aufgabe: Python Modul](https://colab.research.google.com/github/keuperj/DataScience23/blob/main/week_1/Aufgabe_Python.ipynb) 
